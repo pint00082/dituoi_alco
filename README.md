@@ -41,8 +41,8 @@
 <!-- * [<mark>Κεφάλαιο 18</mark>](./resources/ada_book/ch18_gr.pdf) - Προσεγγιστικοί αλγόριθμοι -->
 
 ## Θέματα προετοιμασίας
-* [ΛΥΣΕΙΣ](./resources/recitation-a-solutions.pdf) 📌
-* [ΛΥΣΕΙΣ](./resources/recitation-b-solutions.pdf) 📌
+* [Θέματα προετοιμασίας Α](./resources/recitation-a-solutions.pdf) 📌
+* [Θέματα προετοιμασίας B](./resources/recitation-b-solutions.pdf) 📌
 
 ## 1. Ανάλυση αλγορίθμων
 * [Khan's Academy - Asymptotic notation](https://www.khanacademy.org/computing/computer-science/algorithms#asymptotic-notation)
